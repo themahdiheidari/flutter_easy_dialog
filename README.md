@@ -32,5 +32,5 @@ Add this line to your `pubspec.yaml`:
 ```yaml
 dependencies:
   flutter_easy_dialog:
-git:
-url: https://github.com/mahdiHeydariDev/flutter_easy_dialog.git
+    git:
+    url: https://github.com/mahdiHeydariDev/flutter_easy_dialog.git
