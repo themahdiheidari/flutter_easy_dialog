@@ -1,39 +1,36 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# flutter_easy_dialog
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+A simple, customizable, and beautiful dialog component for Flutter apps.
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+---
 
-## Features
+## 🌟 Overview
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+`flutter_easy_dialog` is a lightweight and flexible dialog utility that helps developers show modern, clean, and customizable dialogs with minimal code.  
+Perfect for success, error, info, warning, confirmation dialogs and more.
 
-## Getting started
+---
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+## ✨ Features
 
-## Usage
+- ✔ Easy to use  
+- ✔ Custom title, description, and buttons  
+- ✔ Modern UI and smooth animations  
+- ✔ Multiple dialog types  
+- ✔ Works on Android, iOS, Web, Desktop  
+- ✔ No external dependencies  
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+---
 
-```dart
-const like = 'sample';
-```
+## 📦 Installation
 
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+Add this line to your `pubspec.yaml`:
+```yaml
+dependencies:
+  flutter_easy_dialog:
+git:
+url: https://github.com/mahdiHeydariDev/flutter_easy_dialog.git
